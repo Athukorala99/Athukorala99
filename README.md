@@ -4,10 +4,7 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=athukorala99&label=Profile%20views&color=0e75b6&style=flat" alt="athukorala99" style="width: 150px; height: 40px" > </p>
-<!--
-- 🌱 I’m currently learning **React, Node.js, Python**  -->
-<!--
-- 📫 How to reach me **athukoralaharith@gmail.com** -->
+
 
 <h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 15px;"> Connect with me</h2>
 <p align="center"> <!--
