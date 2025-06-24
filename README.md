@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=athukorala99&label=Profile%20views&color=0e75b6&style=flat" alt="athukorala99" style="width: 150px; height: 40px" > </p>
 
 
-<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 15px;"> Connect with me</h2>
+<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" height="30" style="margin-right: 15px;"> Connect with me</h2>
 <p align="center">
 <a href="mailto:athukoralaharith@gmail.com"><img src="https://w7.pngwing.com/pngs/979/697/png-transparent-gmail-button-icon.png" alt="Gmail" style="width: 80px; height: 40px"></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/harith-a-805b84107" rel="nofollow"><img src="https://th.bing.com/th/id/R.ef2f3c0ea2d1116f00a5bc56b8c066ce?rik=GYaDoFewrbjMYA&riu=http%3a%2f%2f1000marcas.net%2fwp-content%2fuploads%2f2020%2f01%2fLogo-Linkedin.png&ehk=S4bpGdTYO0hvPM28u%2bFMX4ma7sBWXFdx85iEGZWSx1I%3d&risl=&pid=ImgRaw&r=0" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" style="width: 100px; height: 40px"></a> &nbsp;&nbsp;
